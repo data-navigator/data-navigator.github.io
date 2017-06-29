@@ -3,6 +3,8 @@
 ### Inland Empire Python User Group 2015
 - [Slithering Into GIS - Making Maps with Python](https://data-navigator.github.io/slithering-into-gis-2015/)
 
+### Esri DevSummit 2016
+
 ### Esri DevSummit 2017
 
 - [Harnessing the Power of Python with Conda](https://4326.us/esri/conda-2017/#/)
