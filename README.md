@@ -6,9 +6,19 @@
 
 ## Esri DevSummit 2016
 
+- [Plenary Address Python in
+  ArcGIS](https://www.youtube.com/watch?v=TRajcWgEZa0#t=05m42s)
+
 ## GeoPython 2016
 
+- ArcPy Overview
+- [Slithering Into GIS - Making Maps with Python](https://data-navigator.github.io/slithering-into-gis-2015/)
+
 ## Esri User Conference 2016
+
+- Extending ArcGIS with Python
+- Python - An Introduction
+- ArcPy Tips and Tricks
 
 ## Esri DevSummit 2017
 
@@ -21,3 +31,7 @@
 - [Python in ArcGIS Pro](https://data-navigator.github.io/professional-python-in-pro-geopython-2017/#/)
 
 ## Esri User Conference 2017
+
+- Extending ArcGIS with Python
+- Python - An Introduction
+- ArcPy Tips and Tricks
