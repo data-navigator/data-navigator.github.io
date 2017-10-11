@@ -22,6 +22,7 @@
 
 ## Esri DevSummit 2017
 
+- [Parallel Python - Multiprocessing with ArcPy](http://proceedings.esri.com/library/userconf/devsummit17/papers/dev_int_39.pdf)
 - [Harnessing the Power of Python with Conda](https://4326.us/esri/conda-2017/#/)
 - [Deploying Geoprocessing Tools as Python Modules](https://data-navigator.github.io/module-demo-devsummit-2017/#/)
 - [Python Package Management in ArcGIS Pro Using Conda](https://data-navigator.github.io/packaging-demo-devsummit-2017/#/)
