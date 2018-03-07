@@ -29,6 +29,7 @@
 
 ## GeoPython 2017
 
+- [Discrete Global Grid Systems and Python](https://github.com/data-navigator/data-navigator.github.io/blob/master/dggs_geopython2017.pptx?raw=true)
 - [Python in ArcGIS Pro](https://data-navigator.github.io/professional-python-in-pro-geopython-2017/#/)
 
 ## Esri User Conference 2017
