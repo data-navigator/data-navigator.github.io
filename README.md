@@ -37,3 +37,8 @@
 - Extending ArcGIS with Python
 - Python - An Introduction
 - ArcPy Tips and Tricks
+
+# Esri DevSummit 2018
+
+- [Harnessing the Power of Python in ArcGIS Pro with Conda](https://www.youtube.com/watch?v=dyNamSn3nfA)
+- [Vector and Raster Multiprocessing with ArcPy](https://www.youtube.com/watch?v=cin5BOWlAs8)
