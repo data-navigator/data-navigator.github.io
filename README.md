@@ -42,3 +42,7 @@
 
 - [Harnessing the Power of Python in ArcGIS Pro with Conda](https://www.youtube.com/watch?v=dyNamSn3nfA)
 - [Vector and Raster Multiprocessing with ArcPy](https://www.youtube.com/watch?v=cin5BOWlAs8)
+
+# United Nations Blockchain for Social Impact Summit
+
+- [Federated SDG Data Hub](http://webtv.un.org/meetings-events/watch/part-1-blockchain-for-impact-global-summit/5793517590001/?term=&lan=english) - At approx 1 hour 30 minute mark
