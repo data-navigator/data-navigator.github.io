@@ -1,3 +1,12 @@
+# Clinton Dow's Articles on Futurism
+
+- [The Meta-Economy - Data, Technology, Emotion and Creativity as Resources](https://github.com/data-navigator/data-navigator.github.io/blob/master/articles/data_economy.md)
+- [Meditations on Blockchain](https://github.com/data-navigator/data-navigator.github.io/blob/master/articles/blockchain_ideas.md)
+- [A Living Wage As A Basic Human Right: People as Data Collectors, Experience Aggregators & Novelty Generators](https://github.com/data-navigator/data-navigator.github.io/blob/master/articles/living.md)
+- [Reframing Maps](https://github.com/data-navigator/data-navigator.github.io/blob/master/articles/maps.md)
+- [Open Source Corporation](https://github.com/data-navigator/data-navigator.github.io/blob/master/articles/osc.md)
+- [Dreaming about Data, Thinking about Things](https://github.com/data-navigator/data-navigator.github.io/blob/master/articles/things.md)
+
 # Clinton Dow's Presentations
 
 ## Inland Empire Python User Group 2015
