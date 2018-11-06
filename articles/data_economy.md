@@ -10,7 +10,7 @@ their own spatial properties, but only if they intersect spatially.
 
 These metadata describe everything physical, in varying levels of granularity. 
 We have sensors which can sense data from individual sub-atomic particles, all
-the way up to satellites which can provide data from huge sections of the earth.
+the way up to satellite telescopes which can sense massive entities in outer space.
 Cameras capture data about visible light from wherever their lenses are pointed,
 while thermometers give us data about the air temperature at their location.
 Some of these sensors also emit their spatial data, although many still do not.
