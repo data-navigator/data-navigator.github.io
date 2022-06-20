@@ -49,4 +49,6 @@
 
 # Clinton Dow's Blog Articles 
 
-## [Esri ArcGIS Blog](https://www.esri.com/arcgis-blog/author/cdow/)
+## Esri ArcGIS Blog
+
+- [Profile & Articles](https://www.esri.com/arcgis-blog/author/cdow/)
